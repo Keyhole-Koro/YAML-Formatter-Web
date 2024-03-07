@@ -1,0 +1,13 @@
+{
+  "name": "yaml-formatter-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm ci && node ./build.js",
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
